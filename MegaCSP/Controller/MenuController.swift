@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MenuController.swift
 //  MegaCSP
 //
 //  Created by Bowen, Tanner on 1/4/19.
@@ -8,7 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MenuController: UIViewController
+{
 
     override func viewDidLoad() {
         super.viewDidLoad()
